@@ -21,7 +21,7 @@ In Indonesia, one of the major problems in environmental health is waste. Curren
 - Profile
 
 ## Featured Tech
-**Mobile Development:** Kotlin, Android Studio, Retrofit, Glide
+**Mobile Development:** Kotlin, Android Studio, Retrofit, Glide, Firebase
 
 **Machine Learning:** Google Colab, Python, Tensorflow, Tensorflow Lite
 
