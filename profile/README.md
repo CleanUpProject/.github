@@ -23,7 +23,7 @@ In Indonesia, one of the major problems in environmental health is waste. Curren
 ## Featured Tech
 **Mobile Development:** Kotlin, Android Studio, Retrofit, Glide
 
-**Machine Learning:** Google Colab, Python, Tensorflow, Tensorflow Lite NumPy, Matplotlib, Pandas, Keras.
+**Machine Learning:** Google Colab, Python, Tensorflow, Tensorflow Lite
 
 [Dataset Link](https://www.kaggle.com/datasets/sandi07/dataset-sampah)
 
